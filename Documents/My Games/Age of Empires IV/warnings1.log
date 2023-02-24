@@ -1,0 +1,20 @@
+RelicCardinal_ws started at 2022-04-10 13:29 [Paris, Madrid (heure d’été) UTC 01:00]
+OS Win 10.0.0.0, 15789MB Physical Memory, 5418 Physical Available, 28773 Virtual Total, 10407 Virtual Available, 12984 Page file.
+RUN-OPTIONS []
+WORKING-DIR [C:\Program Files\WindowsApps\Microsoft.Cardinal_5.0.12973.0_x64__8wekyb3d8bbwe\]
+USER [leblo]
+COMPUTER [LAPTOP-A3Q8IMJM]
+LOCALE [fr-FR]
+
+(I) [13:29:20.663] [000059860]: Version.cpp - translation info queried modulefilename C:\Program Files\WindowsApps\Microsoft.Cardinal_5.0.12973.0_x64__8wekyb3d8bbwe\RelicCardinal_ws.exe, len 1732
+(I) [13:29:20.663] [000059860]: Version [5.0.12973.0] Info [[Age of Empires IV][cardinal][staging][rtm][3784305]]
+(I) [13:29:21.802] [000059860]: Loading step: [Additional crash information]
+(I) [13:29:21.802] [000059860]: Loading step: [Platform]
+(I) [13:29:21.805] [000059860]: Loading step: [Early Free RAM Check]
+(I) [13:29:21.805] [000059860]: Loading step: [Single Instance Check]
+(I) [13:29:21.806] [000059860]: Shutting down app early, detected another instance already running
+(I) [13:29:21.806] [000059860]: GlobalInit -- Aborted load for step: 'Single Instance Check'
+(I) [13:29:21.806] [000059860]: Unloading step: [Early Free RAM Check]
+(I) [13:29:21.806] [000059860]: Unloading step: [Platform]
+
+Application closed without errors

@@ -1,0 +1,151 @@
+*****RestoreLuaState
+**Restoring ref list
+Reading key:LuaDataStore, resolveRef:0
+Reading value:table, resolveRef:0
+Read last table entry (nil key)
+**Restoring ref 1
++Added m_refs[1]
+Reading key:TrainingData, resolveRef:0
+Reading value:table, resolveRef:0
+Read last table entry (nil key)
+**Restoring ref 2
++Added m_refs[2]
+Reading key:HighlightVillagersIcon, resolveRef:0
+Reading value:table, resolveRef:0
+Reading key:build_towards_wonder, resolveRef:0
+Reading value:table, resolveRef:0
+Reading key:gather, resolveRef:0
+Reading value:table, resolveRef:0
+Reading key:single_selection, resolveRef:0
+Reading value:table, resolveRef:0
+Reading key:MZ_IdleVillagers, resolveRef:0
+Reading value:table, resolveRef:0
+Reading key:GatherFood, resolveRef:0
+Reading value:table, resolveRef:0
+Reading key:move_unit, resolveRef:0
+Reading value:table, resolveRef:0
+Reading key:bandbox_selectionMZ, resolveRef:0
+Reading value:table, resolveRef:0
+Reading key:pan_camera, resolveRef:0
+Reading value:table, resolveRef:0
+Reading key:build_villager, resolveRef:0
+Reading value:table, resolveRef:0
+Reading key:bandbox_selection, resolveRef:0
+Reading value:table, resolveRef:0
+Read last table entry (nil key)
+**Restoring ref 3
++Added m_refs[3]
+Reading key:timesMet, resolveRef:0
+Reading value:[6.000000], resolveRef:0
+Read last table entry (nil key)
+**Restoring ref 4
++Added m_refs[4]
+Reading key:timesMet, resolveRef:0
+Reading value:[1.000000], resolveRef:0
+Read last table entry (nil key)
+**Restoring ref 5
++Added m_refs[5]
+Reading key:timesMet, resolveRef:0
+Reading value:[1.000000], resolveRef:0
+Read last table entry (nil key)
+**Restoring ref 6
++Added m_refs[6]
+Reading key:timesMet, resolveRef:0
+Reading value:[2.000000], resolveRef:0
+Read last table entry (nil key)
+**Restoring ref 7
++Added m_refs[7]
+Reading key:timesMet, resolveRef:0
+Reading value:[2.000000], resolveRef:0
+Read last table entry (nil key)
+**Restoring ref 8
++Added m_refs[8]
+Reading key:timesMet, resolveRef:0
+Reading value:[6.000000], resolveRef:0
+Read last table entry (nil key)
+**Restoring ref 9
++Added m_refs[9]
+Reading key:timesMet, resolveRef:0
+Reading value:[1.000000], resolveRef:0
+Read last table entry (nil key)
+**Restoring ref 10
++Added m_refs[10]
+Reading key:timesMet, resolveRef:0
+Reading value:[4.000000], resolveRef:0
+Read last table entry (nil key)
+**Restoring ref 11
++Added m_refs[11]
+Reading key:timesMet, resolveRef:0
+Reading value:[1.000000], resolveRef:0
+Read last table entry (nil key)
+**Restoring ref 12
++Added m_refs[12]
+Reading key:timesMet, resolveRef:0
+Reading value:[1.000000], resolveRef:0
+Read last table entry (nil key)
+**Restoring ref 13
++Added m_refs[13]
+Reading key:timesMet, resolveRef:0
+Reading value:[1.000000], resolveRef:0
+Read last table entry (nil key)
+**Restoring ref 14
++Added m_refs[14]
+**Resolving table refs
+**Resolving table ref 1
+Resolving key:LuaDataStore value:table
+**Resolving table ref 2
+Resolving key:TrainingData value:table
+**Resolving table ref 3
+Resolving key:move_unit value:table
+Resolving key:single_selection value:table
+Resolving key:MZ_IdleVillagers value:table
+Resolving key:bandbox_selection value:table
+Resolving key:pan_camera value:table
+Resolving key:HighlightVillagersIcon value:table
+Resolving key:build_villager value:table
+Resolving key:GatherFood value:table
+Resolving key:bandbox_selectionMZ value:table
+Resolving key:gather value:table
+Resolving key:build_towards_wonder value:table
+**Resolving table ref 4
+Resolving key:timesMet value:[6.000000]
+**Resolving table ref 5
+Resolving key:timesMet value:[1.000000]
+**Resolving table ref 6
+Resolving key:timesMet value:[1.000000]
+**Resolving table ref 7
+Resolving key:timesMet value:[2.000000]
+**Resolving table ref 8
+Resolving key:timesMet value:[2.000000]
+**Resolving table ref 9
+Resolving key:timesMet value:[6.000000]
+**Resolving table ref 10
+Resolving key:timesMet value:[1.000000]
+**Resolving table ref 11
+Resolving key:timesMet value:[4.000000]
+**Resolving table ref 12
+Resolving key:timesMet value:[1.000000]
+**Resolving table ref 13
+Resolving key:timesMet value:[1.000000]
+**Resolving table ref 14
+Resolving key:timesMet value:[1.000000]
+**Resolving global table
+**Done resolve
+**Restoring registry ref list
+**Reading base registry table index: 1
+**Resolving table refs - registry
+**Resolving - registry
+**Resolving table ref 1
+**Resolving table ref 2
+**Resolving table ref 3
+**Resolving table ref 4
+**Resolving table ref 5
+**Resolving table ref 6
+**Resolving table ref 7
+**Resolving table ref 8
+**Resolving table ref 9
+**Resolving table ref 10
+**Resolving table ref 11
+**Resolving table ref 12
+**Resolving table ref 13
+**Resolving table ref 14

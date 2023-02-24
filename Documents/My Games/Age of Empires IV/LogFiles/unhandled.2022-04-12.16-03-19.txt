@@ -1,0 +1,21 @@
+-- Log file for all messages not properly caught --
+
+16:04:29.134   WorldwideAutomatchService::OnJoinComplete - automatcher is no longer active - ignoring
+16:04:29.134   WorldwideAutomatch2Service::OnJoinComplete - we're not polling at the moment, ignoring
+16:04:31.460   WorldwideAutomatchService::OnJoinComplete - automatcher is no longer active - ignoring
+16:04:31.460   WorldwideAutomatch2Service::OnJoinComplete - we're not polling at the moment, ignoring
+16:07:38.780   NetworkManager::DispatchEvents() - Warning - Time between calls was 4030 ms
+17:23:21.239   SessionManager::Process() - Warning - Time between calls was 895 ms, time waiting for lock was 884 ms
+17:23:21.239   BattleServerRelay::Process - 895 ms between calls!
+17:23:21.240   BattleServerRelay::Process - 896 ms between calls!
+17:24:59.454   NetworkManager::DispatchEvents() - Warning - Time between calls was 2537 ms
+18:00:42.940   NetworkManager::DispatchEvents() - Warning - Time between calls was 2501 ms
+18:00:43.585   NetworkManagerInternal::FlushJobs - flushing remaining (3) dynamic jobs:
+18:00:43.585   Dynamic job DisconnectAsync still running
+18:00:43.585   Dynamic job WorldwideLeaveAdvertisementAsync still running
+18:00:43.585   Dynamic job DisconnectAsync still running
+18:00:48.588   NetworkManagerInternal::FlushJobs - flushing remaining (2) dynamic jobs:
+18:00:48.588   Dynamic job SetDataAsync still running
+18:00:48.588   Dynamic job LogoutAsync still running
+18:00:53.590   AsyncJobDriver::~AsyncJobDriver() - dynamically allocated job SetDataAsync is still running
+18:00:54.491   Unloading step: [Additional crash information]

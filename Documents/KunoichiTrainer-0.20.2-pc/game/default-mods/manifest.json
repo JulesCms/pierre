@@ -1,0 +1,89 @@
+{
+    "name": "Translations",
+    "mods": [
+        {
+            "id": "translation_zh_Hans",
+            "name": "Translation: Chinese (Simplified) (100%)",
+            "version": "2022.10.21",
+            "description": "Chinese (Simplified) (zh_Hans)\n\nTranslated: 18025/18025\n\nThis translation is powered by community.\nIf you want to help us and improve the translation, you can do it on our {a=http://translate.kunoichi-trainer.ru/projects/kunoichi-trainer/game/zh_Hans/}translation service{/a}.",
+            "game_version": "0.16.2",
+            "no_reload": true,
+            "image": "https://flagcdn.com/w640/cn.webp",
+            "language": "Chinese (Simplified)",
+            "language_code": "zh_Hans",
+            "file_name": "translation_zh_Hans.zip"
+        },
+        {
+            "id": "translation_pl",
+            "name": "Translation: Polish (91.7%)",
+            "version": "2022.9.11",
+            "description": "Polish (pl)\n\n{size=-4}{color=#f0463a}Warning! Translation is not finished. Some text could be on Russian.{/color}{/size}\nTranslated: 16544/18025\n\nThis translation is powered by community.\nIf you want to help us and improve the translation, you can do it on our {a=http://translate.kunoichi-trainer.ru/projects/kunoichi-trainer/game/pl/}translation service{/a}.",
+            "game_version": "0.16.2",
+            "no_reload": true,
+            "image": "https://flagcdn.com/w640/pl.webp",
+            "language": "Polish",
+            "language_code": "pl",
+            "file_name": "translation_pl.zip"
+        },
+        {
+            "id": "translation_fr",
+            "name": "Translation: French (100%)",
+            "version": "2022.10.25",
+            "description": "French (fr)\n\nTranslated: 18025/18025\n\nThis translation is powered by community.\nIf you want to help us and improve the translation, you can do it on our {a=http://translate.kunoichi-trainer.ru/projects/kunoichi-trainer/game/fr/}translation service{/a}.",
+            "game_version": "0.16.2",
+            "no_reload": true,
+            "image": "https://flagcdn.com/w640/fr.webp",
+            "language": "French",
+            "language_code": "fr",
+            "file_name": "translation_fr.zip"
+        },
+        {
+            "id": "translation_es",
+            "name": "Translation: Spanish (91%)",
+            "version": "2022.10.22",
+            "description": "Spanish (es)\n\n{size=-4}{color=#f0463a}Warning! Translation is not finished. Some text could be on Russian.{/color}{/size}\nTranslated: 16414/18025\n\nThis translation is powered by community.\nIf you want to help us and improve the translation, you can do it on our {a=http://translate.kunoichi-trainer.ru/projects/kunoichi-trainer/game/es/}translation service{/a}.",
+            "game_version": "0.16.2",
+            "no_reload": true,
+            "image": "https://flagcdn.com/w640/es.webp",
+            "language": "Spanish",
+            "language_code": "es",
+            "file_name": "translation_es.zip"
+        },
+        {
+            "id": "translation_pt_BR",
+            "name": "Translation: Portuguese (Brazil) (82.8%)",
+            "version": "2022.10.25",
+            "description": "Portuguese (Brazil) (pt_BR)\n\n{size=-4}{color=#f0463a}Warning! Translation is not finished. Some text could be on Russian.{/color}{/size}\nTranslated: 14937/18025\n\nThis translation is powered by community.\nIf you want to help us and improve the translation, you can do it on our {a=http://translate.kunoichi-trainer.ru/projects/kunoichi-trainer/game/pt_BR/}translation service{/a}.",
+            "game_version": "0.16.2",
+            "no_reload": true,
+            "image": "https://flagcdn.com/w640/br.webp",
+            "language": "Portuguese (Brazil)",
+            "language_code": "pt_BR",
+            "file_name": "translation_pt_BR.zip"
+        },
+        {
+            "id": "translation_uk",
+            "name": "Translation: Ukrainian (53.1%)",
+            "version": "2022.10.11",
+            "description": "Ukrainian (uk)\n\n{size=-4}{color=#f0463a}Warning! Translation is not finished. Some text could be on Russian.{/color}{/size}\nTranslated: 9585/18025\n\nThis translation is powered by community.\nIf you want to help us and improve the translation, you can do it on our {a=http://translate.kunoichi-trainer.ru/projects/kunoichi-trainer/game/uk/}translation service{/a}.",
+            "game_version": "0.16.2",
+            "no_reload": true,
+            "image": "https://flagcdn.com/w640/uk.webp",
+            "language": "Ukrainian",
+            "language_code": "uk",
+            "file_name": "translation_uk.zip"
+        },
+        {
+            "id": "translation_de",
+            "name": "Translation: German (38.4%)",
+            "version": "2022.8.7",
+            "description": "German (de)\n\n{size=-4}{color=#f0463a}Warning! Translation is not finished. Some text could be on Russian.{/color}{/size}\nTranslated: 6927/18025\n\nThis translation is powered by community.\nIf you want to help us and improve the translation, you can do it on our {a=http://translate.kunoichi-trainer.ru/projects/kunoichi-trainer/game/de/}translation service{/a}.",
+            "game_version": "0.16.2",
+            "no_reload": true,
+            "image": "https://flagcdn.com/w640/de.webp",
+            "language": "German",
+            "language_code": "de",
+            "file_name": "translation_de.zip"
+        }
+    ]
+}

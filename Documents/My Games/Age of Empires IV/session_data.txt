@@ -1,0 +1,7 @@
+sessionGUID = {299e1167-4572-4f36-af6d-c8ee666de91a}
+version = 5.0.12973.0
+configuration = rtm
+depot = cardinal
+stream = staging
+launchParameters = 
+unsupportedReasons = 

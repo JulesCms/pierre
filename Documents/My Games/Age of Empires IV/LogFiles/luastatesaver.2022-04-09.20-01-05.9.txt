@@ -1,0 +1,80 @@
+*****SaveLuaState
++Added m_refs[1]
+**Writing ref list
+**Writing ref 1
+Ignoring table entry  key:xpcall, value:function
+Ignoring table entry  key:collectgarbage, value:function
+Ignoring table entry  key:next, value:function
+Ignoring table entry  key:getmetatable, value:function
+Ignoring table entry  key:select, value:function
+Ignoring table entry  key:pcall, value:function
+Writing key: LuaDataStore, ref:0
+Writing value: table, ref:0
++Added m_refs[2]
+Ignoring table entry  key:pairs, value:function
+Ignoring table entry  key:rawlen, value:function
+Ignoring table entry  key:ipairs, value:function
+Ignoring table entry  key:_PRINT, value:function
+Ignoring table entry  key:assert, value:function
+Ignoring table entry  key:type, value:function
+Ignoring table entry  key:print, value:function
+Ignoring table entry  key:loadfile, value:function
+Ignoring table entry  key:_ImportCallback, value:function
+Ignoring table entry  key:tonumber, value:function
+Ignoring table entry  key:_G, value:table
+Ignoring table entry  key:rawget, value:function
+Ignoring table entry  key:error, value:function
+Ignoring table entry  key:setmetatable, value:function
+Ignoring table entry  key:import, value:function
+Ignoring table entry  key:_VERSION, value:Lua 5.3
+Ignoring table entry  key:tostring, value:function
+Ignoring table entry  key:rawset, value:function
+Ignoring table entry  key:_ALERT, value:function
+Ignoring table entry  key:dofile, value:function
+Ignoring table entry  key:load, value:function
+Ignoring table entry  key:rawequal, value:function
+Writing nil key for last entry
+**Writing ref 2
+Writing key: TrainingData, ref:0
+Writing value: table, ref:0
++Added m_refs[3]
+Writing nil key for last entry
+**Writing ref 3
+Writing key: pan_camera, ref:0
+Writing value: table, ref:0
++Added m_refs[4]
+Writing key: GatherFood, ref:0
+Writing value: table, ref:0
++Added m_refs[5]
+Writing key: move_unit, ref:0
+Writing value: table, ref:0
++Added m_refs[6]
+Writing key: single_selection, ref:0
+Writing value: table, ref:0
++Added m_refs[7]
+Writing nil key for last entry
+**Writing ref 4
+Writing key: timesMet, ref:0
+Writing value: [1.000000], ref:0
+Writing nil key for last entry
+**Writing ref 5
+Writing key: timesMet, ref:0
+Writing value: [6.000000], ref:0
+Writing nil key for last entry
+**Writing ref 6
+Writing key: timesMet, ref:0
+Writing value: [1.000000], ref:0
+Writing nil key for last entry
+**Writing ref 7
+Writing key: timesMet, ref:0
+Writing value: [2.000000], ref:0
+Writing nil key for last entry
+**Writing nil ref for end
+**Writing global ref chunk 12
+Writing the registry table's numbered indices!
+Writing key: [2]
+Writing value: table
+>Found existing m_refs[1]
+**Writing nil ref for end of base registry table
+**Writing ref list - registry
+**Writing nil ref for end of registry

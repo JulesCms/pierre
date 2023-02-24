@@ -1,0 +1,13 @@
+-- Log file for all messages not properly caught --
+
+20:01:35.303   WorldwideAutomatch2Service::OnHostComplete - we're not polling at the moment, ignoring
+20:02:02.309   NetworkManager::DispatchEvents() - Warning - Time between calls was 18254 ms
+20:02:27.543   NetworkManager::DispatchEvents() - Warning - Time between calls was 6722 ms
+20:06:32.293   WorldwideAutomatchService::OnJoinComplete - automatcher is no longer active - ignoring
+20:06:32.293   WorldwideAutomatch2Service::OnJoinComplete - we're not polling at the moment, ignoring
+20:07:28.251   WorldwideAutomatchService::OnJoinComplete - automatcher is no longer active - ignoring
+20:07:28.251   WorldwideAutomatch2Service::OnJoinComplete - we're not polling at the moment, ignoring
+20:12:15.801   NetworkManager::DispatchEvents() - Warning - Time between calls was 3347 ms
+20:14:05.772   SessionManager::Process() - Warning - Time between calls was 3221 ms, time waiting for lock was 0 ms
+20:14:05.772   BattleServerRelay::Process - 3221 ms between calls!
+20:14:05.773   BattleServerRelay::Process - 3222 ms between calls!

@@ -1,0 +1,10 @@
+[2022-07-25 18:30:23.256] [DISPLAY] [Main ] [main] Command line: "C:\Program Files\Rockstar Games\Launcher\Launcher.exe" -uninstallall
+[2022-07-25 18:30:23.256] [DISPLAY] [Main ] [main] Working directory: C:\Program Files\Rockstar Games\Launcher
+[2022-07-25 18:30:23.256] [DISPLAY] [Main ] [main] Build type: FMB
+[2022-07-25 18:30:23.257] [DISPLAY] [Main ] [main] Version: 1.0.57.785
+[2022-07-25 18:30:23.257] [DISPLAY] [Main ] [main] Parameters:
+[2022-07-25 18:30:23.257] [DISPLAY] [Main ] [main]     C:\Program Files\Rockstar Games\Launcher\Launcher.exe
+[2022-07-25 18:30:23.257] [DISPLAY] [Main ] [main]     -uninstallall
+[2022-07-25 18:30:23.292] [DISPLAY] [Main ] [minmode] Uninstalling all titles.
+[2022-07-25 18:30:23.293] [DISPLAY] [Main ] [launcher] Opening log file.
+[2022-07-25 18:30:23.295] [ ERROR ] [Main ] [subsystem] Failed to initialize launcher rpf.

@@ -1,0 +1,43 @@
+-- Log file for all messages not properly caught --
+
+18:47:07.339   WorldwideAutomatch2Service::OnHostComplete - we're not polling at the moment, ignoring
+18:49:01.331   NetworkManager::DispatchEvents() - Warning - Time between calls was 2553 ms
+18:50:31.077   WorldwideAutomatch2Service::OnHostComplete - we're not polling at the moment, ignoring
+18:51:51.931   NetworkManager::DispatchEvents() - Warning - Time between calls was 3128 ms
+19:53:39.864   BattleServerRelay::Process - 338 ms between calls!
+21:02:20.296   WorldwideAutomatch2Service::OnHostComplete - we're not polling at the moment, ignoring
+21:02:51.490   WorldwideAutomatchService::OnJoinComplete - automatcher is no longer active - ignoring
+21:02:51.490   WorldwideAutomatch2Service::OnJoinComplete - we're not polling at the moment, ignoring
+21:02:54.210   WorldwideAutomatchService::OnJoinComplete - automatcher is no longer active - ignoring
+21:02:54.210   WorldwideAutomatch2Service::OnJoinComplete - we're not polling at the moment, ignoring
+21:06:04.245   NetworkManager::DispatchEvents() - Warning - Time between calls was 4189 ms
+22:14:02.491   SessionManager::Process() - Warning - Time between calls was 580 ms, time waiting for lock was 569 ms
+22:14:02.491   BattleServerRelay::Process - 580 ms between calls!
+22:14:02.491   BattleServerRelay::Process - 581 ms between calls!
+22:34:59.469   BattleServerRelay::Process - 223 ms between calls!
+22:34:59.469   BattleServerRelay::Process - 223 ms between calls!
+22:35:13.681   NetworkManager::DispatchEvents() - Warning - Time between calls was 2610 ms
+22:35:14.747   NetworkManagerInternal::FlushJobs - flushing remaining (14) dynamic jobs:
+22:35:14.747   Dynamic job SetDataAsync still running
+22:35:14.747   Dynamic job WorldwideSetPresencePropertyAsync still running
+22:35:14.747   Dynamic job ProfilePropertyCache still running
+22:35:14.747   Dynamic job WorldwideSetPresencePropertyAsync still running
+22:35:14.747   Dynamic job DisconnectAsync still running
+22:35:14.747   Dynamic job WorldwideLeaveAdvertisementAsync still running
+22:35:14.747   Dynamic job WorldwideUpdateAdvertisementAsync still running
+22:35:14.747   Dynamic job WorldwideUpdateHostAsync still running
+22:35:14.747   Dynamic job PersonalizedItemPricesCache still running
+22:35:14.747   Dynamic job WorldWideSetPresenceAsync still running
+22:35:14.747   Dynamic job DisconnectAsync still running
+22:35:14.747   Dynamic job WorldwideLeaveAdvertisementAsync still running
+22:35:14.747   Dynamic job DisconnectAsync still running
+22:35:14.747   Dynamic job DisconnectAsync still running
+22:35:19.750   NetworkManagerInternal::FlushJobs - flushing remaining (6) dynamic jobs:
+22:35:19.750   Dynamic job PersonalizedItemPricesCache still running
+22:35:19.750   Dynamic job WorldWideSetPresenceAsync still running
+22:35:19.750   Dynamic job DisconnectAsync still running
+22:35:19.750   Dynamic job WorldwideLeaveAdvertisementAsync still running
+22:35:19.750   Dynamic job SetDataAsync still running
+22:35:19.750   Dynamic job LogoutAsync still running
+22:35:24.753   AsyncJobDriver::~AsyncJobDriver() - dynamically allocated job SetDataAsync is still running
+22:35:25.871   Unloading step: [Additional crash information]

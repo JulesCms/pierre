@@ -1,0 +1,164 @@
+[2022-04-12 21:38:58.519] [ 84196] [148E8] ===================================
+[2022-04-12 21:38:58.520] [ 84196] [148E8] Browser process opened from pid: 74192
+[2022-04-12 21:38:58.521] [ 84196] [148E8] Language: fr
+[2022-04-12 21:38:58.522] [ 84196] [148E8] Connecting to IPC channel: rgsc_ipc_121d0
+[2022-04-12 21:38:58.524] [ 84196] [148E8] Product version: RockstarGames/2.1.3.2/1.0.2545.0/gta5/PC
+[2022-04-12 21:38:58.600] [ 84196] [148E8] OnChannelConnected - rgsc_ipc_121d0 (remoteProcessId 74192)
+[2022-04-12 21:39:01.538] [ 84196] [148E8] Renderer[1][84712] IPC channel response: connect to 'rgsc_ipc_121d0_channel_1'
+[2022-04-12 21:39:01.539] [ 84196] [148E8] Renderer[1][84712] Connecting to IPC channel: rgsc_ipc_121d0_channel_1
+[2022-04-12 21:39:01.545] [ 84196] [148E8] Renderer[1][84712] OnChannelConnected - rgsc_ipc_121d0_channel_1 (remoteProcessId 74192)
+[2022-04-12 21:42:16.059] [ 84196] [148E8] OnChannelError() - rgsc_ipc_121d0
+[2022-04-12 21:42:16.060] [ 84196] [148E8] Renderer[1][84712] OnChannelError() - rgsc_ipc_121d0_channel_1
+[2022-04-12 21:42:16.064] [ 84196] [148E8] All windows now closed, requesting cleanup.
+[2022-04-12 21:42:16.066] [ 84196] [148E8] Posting quit to main message loop.
+[2022-04-12 21:42:16.067] [ 84196] [148E8] MainMessageLoopInternalPump - Quit requested
+[2022-04-12 21:42:16.091] [ 84196] [148E8] MainMessageLoopInternalPump - Preparing to shutdown
+[2022-04-12 21:42:16.091] [ 84196] [148E8] Timed out waiting for windows to close on shutdown
+[2022-04-12 21:47:08.424] [ 85444] [13CDC] ===================================
+[2022-04-12 21:47:08.425] [ 85444] [13CDC] Browser process opened from pid: 83268
+[2022-04-12 21:47:08.425] [ 85444] [13CDC] Language: fr
+[2022-04-12 21:47:08.426] [ 85444] [13CDC] Connecting to IPC channel: rgsc_ipc_14544
+[2022-04-12 21:47:08.427] [ 85444] [13CDC] Product version: RockstarGames/2.1.3.2/1.0.2545.0/gta5/PC
+[2022-04-12 21:47:08.479] [ 85444] [13CDC] OnChannelConnected - rgsc_ipc_14544 (remoteProcessId 83268)
+[2022-04-12 21:47:10.089] [ 85444] [13CDC] Renderer[1][80240] IPC channel response: connect to 'rgsc_ipc_14544_channel_1'
+[2022-04-12 21:47:10.090] [ 85444] [13CDC] Renderer[1][80240] Connecting to IPC channel: rgsc_ipc_14544_channel_1
+[2022-04-12 21:47:10.105] [ 85444] [13CDC] Renderer[1][80240] OnChannelConnected - rgsc_ipc_14544_channel_1 (remoteProcessId 83268)
+[2022-04-12 21:50:34.516] [ 85444] [13CDC] OnChannelError() - rgsc_ipc_14544
+[2022-04-12 21:50:34.532] [ 85444] [13CDC] Timed out waiting for windows to close on shutdown
+[2022-04-12 21:50:34.547] [ 85444] [13CDC] MainMessageLoopInternalPump - Preparing to shutdown
+[2022-04-12 21:50:34.626] [ 85444] [13CDC] Renderer[1][80240] OnChannelError() - rgsc_ipc_14544_channel_1
+[2022-04-12 21:50:34.635] [ 85444] [13CDC] All windows now closed, requesting cleanup.
+[2022-04-12 21:50:34.640] [ 85444] [13CDC] Posting quit to main message loop.
+[2022-04-12 21:50:34.641] [ 85444] [13CDC] MainMessageLoopInternalPump - Quit requested
+[2022-04-12 21:50:37.730] [ 85444] [13CDC] MainMessageLoopInternalPump - Shutdown
+[2022-04-12 21:59:11.829] [ 66136] [14FA0] ===================================
+[2022-04-12 21:59:11.841] [ 66136] [14FA0] Browser process opened from pid: 84888
+[2022-04-12 21:59:11.841] [ 66136] [14FA0] Language: fr
+[2022-04-12 21:59:11.841] [ 66136] [14FA0] Connecting to IPC channel: rgsc_ipc_14b98
+[2022-04-12 21:59:11.843] [ 66136] [14FA0] Product version: RockstarGames/2.1.3.2/1.0.2545.0/gta5/PC
+[2022-04-12 21:59:11.890] [ 66136] [14FA0] OnChannelConnected - rgsc_ipc_14b98 (remoteProcessId 84888)
+[2022-04-12 21:59:13.500] [ 66136] [14FA0] Renderer[1][72800] IPC channel response: connect to 'rgsc_ipc_14b98_channel_1'
+[2022-04-12 21:59:13.500] [ 66136] [14FA0] Renderer[1][72800] Connecting to IPC channel: rgsc_ipc_14b98_channel_1
+[2022-04-12 21:59:13.536] [ 66136] [14FA0] Renderer[1][72800] OnChannelConnected - rgsc_ipc_14b98_channel_1 (remoteProcessId 84888)
+[2022-04-12 22:45:01.290] [ 20072] [60A4] ===================================
+[2022-04-12 22:45:01.292] [ 20072] [60A4] Browser process opened from pid: 8896
+[2022-04-12 22:45:01.292] [ 20072] [60A4] Language: fr
+[2022-04-12 22:45:01.293] [ 20072] [60A4] Connecting to IPC channel: rgsc_ipc_22c0
+[2022-04-12 22:45:01.295] [ 20072] [60A4] Product version: RockstarGames/2.1.3.2/1.0.2545.0/gta5/PC
+[2022-04-12 22:45:01.371] [ 20072] [60A4] OnChannelConnected - rgsc_ipc_22c0 (remoteProcessId 8896)
+[2022-04-12 22:45:03.097] [ 20072] [60A4] Renderer[1][2548] IPC channel response: connect to 'rgsc_ipc_22c0_channel_1'
+[2022-04-12 22:45:03.097] [ 20072] [60A4] Renderer[1][2548] Connecting to IPC channel: rgsc_ipc_22c0_channel_1
+[2022-04-12 22:45:03.159] [ 20072] [60A4] Renderer[1][2548] OnChannelConnected - rgsc_ipc_22c0_channel_1 (remoteProcessId 8896)
+[2022-04-12 22:49:59.655] [ 14912] [48EC] ===================================
+[2022-04-12 22:49:59.656] [ 14912] [48EC] Browser process opened from pid: 20980
+[2022-04-12 22:49:59.656] [ 14912] [48EC] Language: fr
+[2022-04-12 22:49:59.657] [ 14912] [48EC] Connecting to IPC channel: rgsc_ipc_51f4
+[2022-04-12 22:49:59.658] [ 14912] [48EC] Product version: RockstarGames/2.1.3.2/1.0.2545.0/gta5/PC
+[2022-04-12 22:49:59.708] [ 14912] [48EC] OnChannelConnected - rgsc_ipc_51f4 (remoteProcessId 20980)
+[2022-04-12 22:50:01.605] [ 14912] [48EC] Renderer[1][5416] IPC channel response: connect to 'rgsc_ipc_51f4_channel_1'
+[2022-04-12 22:50:01.605] [ 14912] [48EC] Renderer[1][5416] Connecting to IPC channel: rgsc_ipc_51f4_channel_1
+[2022-04-12 22:50:01.652] [ 14912] [48EC] Renderer[1][5416] OnChannelConnected - rgsc_ipc_51f4_channel_1 (remoteProcessId 20980)
+[2022-04-13 01:15:01.192] [ 19880] [ 584] ===================================
+[2022-04-13 01:15:01.193] [ 19880] [ 584] Browser process opened from pid: 14096
+[2022-04-13 01:15:01.194] [ 19880] [ 584] Language: fr
+[2022-04-13 01:15:01.194] [ 19880] [ 584] Connecting to IPC channel: rgsc_ipc_3710
+[2022-04-13 01:15:01.195] [ 19880] [ 584] Product version: RockstarGames/2.1.3.2/1.0.2545.0/gta5/PC
+[2022-04-13 01:15:01.243] [ 19880] [ 584] OnChannelConnected - rgsc_ipc_3710 (remoteProcessId 14096)
+[2022-04-13 01:15:03.731] [ 19880] [ 584] Renderer[1][23744] IPC channel response: connect to 'rgsc_ipc_3710_channel_1'
+[2022-04-13 01:15:03.731] [ 19880] [ 584] Renderer[1][23744] Connecting to IPC channel: rgsc_ipc_3710_channel_1
+[2022-04-13 01:15:03.778] [ 19880] [ 584] Renderer[1][23744] OnChannelConnected - rgsc_ipc_3710_channel_1 (remoteProcessId 14096)
+[2022-04-13 05:05:14.639] [ 19880] [ 584] OnChannelError() - rgsc_ipc_3710
+[2022-04-13 05:05:14.655] [ 19880] [ 584] Timed out waiting for windows to close on shutdown
+[2022-04-13 05:05:14.671] [ 19880] [ 584] MainMessageLoopInternalPump - Preparing to shutdown
+[2022-04-13 05:05:14.718] [ 19880] [ 584] Renderer[1][23744] OnChannelError() - rgsc_ipc_3710_channel_1
+[2022-04-13 05:05:14.728] [ 19880] [ 584] All windows now closed, requesting cleanup.
+[2022-04-13 05:05:14.733] [ 19880] [ 584] Posting quit to main message loop.
+[2022-04-13 05:05:14.733] [ 19880] [ 584] MainMessageLoopInternalPump - Quit requested
+[2022-04-13 05:05:18.718] [ 19880] [ 584] MainMessageLoopInternalPump - Shutdown
+[2022-04-13 21:24:16.260] [  6844] [6C4C] ===================================
+[2022-04-13 21:24:16.261] [  6844] [6C4C] Browser process opened from pid: 25984
+[2022-04-13 21:24:16.262] [  6844] [6C4C] Language: fr
+[2022-04-13 21:24:16.262] [  6844] [6C4C] Connecting to IPC channel: rgsc_ipc_6580
+[2022-04-13 21:24:16.263] [  6844] [6C4C] Product version: RockstarGames/2.1.3.2/1.0.2545.0/gta5/PC
+[2022-04-13 21:24:16.312] [  6844] [6C4C] OnChannelConnected - rgsc_ipc_6580 (remoteProcessId 25984)
+[2022-04-13 21:24:18.208] [  6844] [6C4C] Renderer[1][29940] IPC channel response: connect to 'rgsc_ipc_6580_channel_1'
+[2022-04-13 21:24:18.209] [  6844] [6C4C] Renderer[1][29940] Connecting to IPC channel: rgsc_ipc_6580_channel_1
+[2022-04-13 21:24:18.209] [  6844] [6C4C] Renderer[1][29940] OnChannelConnected - rgsc_ipc_6580_channel_1 (remoteProcessId 25984)
+[2022-04-13 22:11:01.302] [ 17208] [5028] ===================================
+[2022-04-13 22:11:01.303] [ 17208] [5028] Browser process opened from pid: 25984
+[2022-04-13 22:11:01.303] [ 17208] [5028] Language: fr
+[2022-04-13 22:11:01.304] [ 17208] [5028] Connecting to IPC channel: rgsc_ipc_6580_channel_2
+[2022-04-13 22:11:01.305] [ 17208] [5028] Product version: RockstarGames/2.1.3.2/1.0.2545.0/gta5/PC
+[2022-04-13 22:11:01.353] [ 17208] [5028] OnChannelConnected - rgsc_ipc_6580_channel_2 (remoteProcessId 25984)
+[2022-04-13 22:11:01.975] [ 17208] [5028] Renderer[1][30912] IPC channel response: connect to 'rgsc_ipc_6580_channel_3'
+[2022-04-13 22:11:01.976] [ 17208] [5028] Renderer[1][30912] Connecting to IPC channel: rgsc_ipc_6580_channel_3
+[2022-04-13 22:11:02.119] [ 17208] [5028] Renderer[1][30912] OnChannelConnected - rgsc_ipc_6580_channel_3 (remoteProcessId 25984)
+[2022-04-13 22:11:05.985] [ 17208] [5028] OnChannelError() - rgsc_ipc_6580_channel_2
+[2022-04-13 22:11:06.001] [ 17208] [5028] Timed out waiting for windows to close on shutdown
+[2022-04-13 22:11:06.017] [ 17208] [5028] MainMessageLoopInternalPump - Preparing to shutdown
+[2022-04-13 22:11:06.081] [ 17208] [5028] Renderer[1][30912] OnChannelError() - rgsc_ipc_6580_channel_3
+[2022-04-13 22:11:06.086] [ 17208] [5028] All windows now closed, requesting cleanup.
+[2022-04-13 22:11:06.090] [ 17208] [5028] Posting quit to main message loop.
+[2022-04-13 22:11:06.091] [ 17208] [5028] MainMessageLoopInternalPump - Quit requested
+[2022-04-13 22:11:09.186] [ 17208] [5028] MainMessageLoopInternalPump - Shutdown
+[2022-04-13 22:11:20.657] [   960] [36C0] ===================================
+[2022-04-13 22:11:20.658] [   960] [36C0] Browser process opened from pid: 31212
+[2022-04-13 22:11:20.658] [   960] [36C0] Language: fr
+[2022-04-13 22:11:20.659] [   960] [36C0] Connecting to IPC channel: rgsc_ipc_79ec
+[2022-04-13 22:11:20.660] [   960] [36C0] Product version: RockstarGames/2.1.3.2/1.0.2545.0/gta5/PC
+[2022-04-13 22:11:20.707] [   960] [36C0] OnChannelConnected - rgsc_ipc_79ec (remoteProcessId 31212)
+[2022-04-13 22:11:22.079] [   960] [36C0] Renderer[1][29868] IPC channel response: connect to 'rgsc_ipc_79ec_channel_1'
+[2022-04-13 22:11:22.080] [   960] [36C0] Renderer[1][29868] Connecting to IPC channel: rgsc_ipc_79ec_channel_1
+[2022-04-13 22:11:22.081] [   960] [36C0] Renderer[1][29868] OnChannelConnected - rgsc_ipc_79ec_channel_1 (remoteProcessId 31212)
+[2022-04-13 22:31:56.570] [ 16904] [4204] ===================================
+[2022-04-13 22:31:56.572] [ 16904] [4204] Browser process opened from pid: 17904
+[2022-04-13 22:31:56.572] [ 16904] [4204] Language: fr
+[2022-04-13 22:31:56.572] [ 16904] [4204] Connecting to IPC channel: rgsc_ipc_45f0
+[2022-04-13 22:31:56.573] [ 16904] [4204] Product version: RockstarGames/2.1.3.2/1.0.2545.0/gta5/PC
+[2022-04-13 22:31:56.620] [ 16904] [4204] OnChannelConnected - rgsc_ipc_45f0 (remoteProcessId 17904)
+[2022-04-13 22:31:58.507] [ 16904] [4204] Renderer[1][20036] IPC channel response: connect to 'rgsc_ipc_45f0_channel_1'
+[2022-04-13 22:31:58.507] [ 16904] [4204] Renderer[1][20036] Connecting to IPC channel: rgsc_ipc_45f0_channel_1
+[2022-04-13 22:31:58.508] [ 16904] [4204] Renderer[1][20036] OnChannelConnected - rgsc_ipc_45f0_channel_1 (remoteProcessId 17904)
+[2022-04-13 23:22:09.931] [ 16904] [4204] OnChannelError() - rgsc_ipc_45f0
+[2022-04-13 23:22:09.946] [ 16904] [4204] Timed out waiting for windows to close on shutdown
+[2022-04-13 23:22:09.962] [ 16904] [4204] MainMessageLoopInternalPump - Preparing to shutdown
+[2022-04-13 23:22:09.994] [ 16904] [4204] Renderer[1][20036] OnChannelError() - rgsc_ipc_45f0_channel_1
+[2022-04-13 23:22:10.008] [ 16904] [4204] All windows now closed, requesting cleanup.
+[2022-04-13 23:22:10.017] [ 16904] [4204] Posting quit to main message loop.
+[2022-04-13 23:22:10.018] [ 16904] [4204] MainMessageLoopInternalPump - Quit requested
+[2022-04-13 23:22:13.113] [ 16904] [4204] MainMessageLoopInternalPump - Shutdown
+[2022-04-13 23:22:27.496] [ 24372] [601C] ===================================
+[2022-04-13 23:22:27.497] [ 24372] [601C] Browser process opened from pid: 26600
+[2022-04-13 23:22:27.497] [ 24372] [601C] Language: fr
+[2022-04-13 23:22:27.497] [ 24372] [601C] Connecting to IPC channel: rgsc_ipc_67e8
+[2022-04-13 23:22:27.498] [ 24372] [601C] Product version: RockstarGames/2.1.3.2/1.0.2545.0/gta5/PC
+[2022-04-13 23:22:27.610] [ 24372] [601C] OnChannelConnected - rgsc_ipc_67e8 (remoteProcessId 26600)
+[2022-04-13 23:22:29.385] [ 24372] [601C] Renderer[1][22100] IPC channel response: connect to 'rgsc_ipc_67e8_channel_1'
+[2022-04-13 23:22:29.386] [ 24372] [601C] Renderer[1][22100] Connecting to IPC channel: rgsc_ipc_67e8_channel_1
+[2022-04-13 23:22:29.422] [ 24372] [601C] Renderer[1][22100] OnChannelConnected - rgsc_ipc_67e8_channel_1 (remoteProcessId 26600)
+[2022-04-14 00:05:43.284] [ 19240] [5B6C] ===================================
+[2022-04-14 00:05:43.284] [ 19240] [5B6C] Browser process opened from pid: 26600
+[2022-04-14 00:05:43.285] [ 19240] [5B6C] Language: fr
+[2022-04-14 00:05:43.285] [ 19240] [5B6C] Connecting to IPC channel: rgsc_ipc_67e8_channel_2
+[2022-04-14 00:05:43.286] [ 19240] [5B6C] Product version: RockstarGames/2.1.3.2/1.0.2545.0/gta5/PC
+[2022-04-14 00:05:43.334] [ 19240] [5B6C] OnChannelConnected - rgsc_ipc_67e8_channel_2 (remoteProcessId 26600)
+[2022-04-14 00:05:43.960] [ 19240] [5B6C] Renderer[1][21340] IPC channel response: connect to 'rgsc_ipc_67e8_channel_3'
+[2022-04-14 00:05:43.961] [ 19240] [5B6C] Renderer[1][21340] Connecting to IPC channel: rgsc_ipc_67e8_channel_3
+[2022-04-14 00:05:43.981] [ 19240] [5B6C] Renderer[1][21340] OnChannelConnected - rgsc_ipc_67e8_channel_3 (remoteProcessId 26600)
+[2022-04-14 00:05:47.623] [ 19240] [5B6C] OnChannelError() - rgsc_ipc_67e8_channel_2
+[2022-04-14 00:05:47.639] [ 19240] [5B6C] Timed out waiting for windows to close on shutdown
+[2022-04-14 00:05:47.655] [ 19240] [5B6C] MainMessageLoopInternalPump - Preparing to shutdown
+[2022-04-14 00:05:47.735] [ 19240] [5B6C] Renderer[1][21340] OnChannelError() - rgsc_ipc_67e8_channel_3
+[2022-04-14 00:05:47.738] [ 19240] [5B6C] All windows now closed, requesting cleanup.
+[2022-04-14 00:05:47.740] [ 19240] [5B6C] Posting quit to main message loop.
+[2022-04-14 00:05:47.741] [ 19240] [5B6C] MainMessageLoopInternalPump - Quit requested
+[2022-04-14 00:05:50.837] [ 19240] [5B6C] MainMessageLoopInternalPump - Shutdown
+[2022-04-30 00:16:08.192] [ 22404] [EF10] ===================================
+[2022-04-30 00:16:08.194] [ 22404] [EF10] Browser process opened from pid: 17044
+[2022-04-30 00:16:08.194] [ 22404] [EF10] Language: fr
+[2022-04-30 00:16:08.195] [ 22404] [EF10] Connecting to IPC channel: rgsc_ipc_4294
+[2022-04-30 00:16:08.196] [ 22404] [EF10] Product version: RockstarGames/2.1.3.2/1.0.2612.1/gta5/PC
+[2022-04-30 00:16:08.250] [ 22404] [EF10] OnChannelConnected - rgsc_ipc_4294 (remoteProcessId 17044)
+[2022-04-30 00:16:09.960] [ 22404] [EF10] Renderer[1][56128] IPC channel response: connect to 'rgsc_ipc_4294_channel_1'
+[2022-04-30 00:16:09.961] [ 22404] [EF10] Renderer[1][56128] Connecting to IPC channel: rgsc_ipc_4294_channel_1
+[2022-04-30 00:16:09.975] [ 22404] [EF10] Renderer[1][56128] OnChannelConnected - rgsc_ipc_4294_channel_1 (remoteProcessId 17044)

@@ -1,0 +1,11 @@
+{
+    "id": "translation_fr",
+    "name": "Translation: French (100%)",
+    "version": "2022.10.25",
+    "description": "French (fr)\n\nTranslated: 18025/18025\n\nThis translation is powered by community.\nIf you want to help us and improve the translation, you can do it on our {a=http://translate.kunoichi-trainer.ru/projects/kunoichi-trainer/game/fr/}translation service{/a}.",
+    "game_version": "0.16.2",
+    "no_reload": true,
+    "image": "https://flagcdn.com/w640/fr.webp",
+    "language": "French",
+    "language_code": "fr"
+}

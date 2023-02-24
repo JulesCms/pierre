@@ -1,0 +1,11 @@
+LuaDataStore =  
+{
+	flow =  
+	{
+		leavingMatch = false,
+		matchStatsRequested = false,
+		spectatorMode = false,
+		postGameState = false,
+	},
+}
+

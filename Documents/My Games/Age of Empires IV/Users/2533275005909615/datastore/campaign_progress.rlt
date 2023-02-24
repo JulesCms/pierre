@@ -1,0 +1,24 @@
+LuaDataStore =  
+{
+	campaign_progress =  
+	{
+		mission_complete_timestamps =  
+		{
+		},
+		subcampaign_unlocks =  
+		{
+			english = true,
+		},
+		mission_rewards =  
+		{
+		},
+		mission_unlocks =  
+		{
+			ang_chp1_hastings = true,
+			mon_chp1_kalka_river = true,
+			hun_chp1_combat30 = true,
+			gdm_chp1_moscow = true,
+		},
+	},
+}
+
